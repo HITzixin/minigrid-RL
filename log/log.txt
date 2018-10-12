@@ -1,0 +1,21 @@
+Logging to ./log
+---------------------------------
+| episode_length     | 0        |
+| episode_reward     | 0        |
+| explained_variance | -0.137   |
+| fps                | 110      |
+| nupdates           | 1        |
+| policy_entropy     | 1.95     |
+| total_timesteps    | 80       |
+| value_loss         | 1.78e-05 |
+---------------------------------
+---------------------------------
+| episode_length     | 98.8     |
+| episode_reward     | 0.0185   |
+| explained_variance | -5.48    |
+| fps                | 2915     |
+| nupdates           | 100      |
+| policy_entropy     | 1.95     |
+| total_timesteps    | 8000     |
+| value_loss         | 2.86e-05 |
+---------------------------------
